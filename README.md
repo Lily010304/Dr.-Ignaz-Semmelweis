@@ -1,6 +1,6 @@
 ## 1. Meet Dr. Ignaz Semmelweis
 
-![ignaz_semmelweis_1860]("datasets\ignaz_semmelweis_1860.jpeg")
+![ignaz_semmelweis_1860]("datasets\ignaz_semmelweis_1860.jpg")
 
 
 <!--
