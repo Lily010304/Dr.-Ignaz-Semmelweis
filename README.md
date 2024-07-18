@@ -1,5 +1,7 @@
 ## 1. Meet Dr. Ignaz Semmelweis
-![ignaz_semmelweis_1860](https://github.com/user-attachments/assets/3fd01533-9689-4012-922a-e7a50968e6b1)
+
+![ignaz_semmelweis_1860](https://github.com/user-attachments/assets/0d899fc0-8c24-435f-98b8-59b17b3f47c9)
+
 <!--
 
 <img style="float: left;margin:5px 20px 5px 1px" src="https://assets.datacamp.com/production/project_20/datasets/ignaz_semmelweis_1860.jpeg">
