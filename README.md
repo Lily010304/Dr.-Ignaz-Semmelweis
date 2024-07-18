@@ -1,7 +1,7 @@
 ## 1. Meet Dr. Ignaz Semmelweis
-<p><img style="float: left;margin:5px 20px 5px 1px" src="![ignaz_semmelweis_1860](https://github.com/user-attachments/assets/1df1cada-a249-49e4-b7cf-8592b7e75e4b)"> </p>
-
+![ignaz_semmelweis_1860](https://github.com/user-attachments/assets/3fd01533-9689-4012-922a-e7a50968e6b1)
 <!--
+
 <img style="float: left;margin:5px 20px 5px 1px" src="https://assets.datacamp.com/production/project_20/datasets/ignaz_semmelweis_1860.jpeg">
 -->
 <p>This is Dr. Ignaz Semmelweis, a Hungarian physician born in 1818 and active at the Vienna General Hospital. If Dr. Semmelweis looks troubled it's probably because he's thinking about <em>childbed fever</em>: A deadly disease affecting women that just have given birth. He is thinking about it because in the early 1840s at the Vienna General Hospital as many as 10% of the women giving birth die from it. He is thinking about it because he knows the cause of childbed fever: It's the contaminated hands of the doctors delivering the babies. And they won't listen to him and <em>wash their hands</em>!</p>
